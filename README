@@ -1,0 +1,18 @@
+# Training Studio Web Page
+
+This is a responsive Training Studio website that showcases a hero section with a transparent dark blue background, a fixed header, and navigation links. The page is built with HTML and CSS, with a focus on clean design and user-friendly navigation.
+
+## Features
+
+- **Fixed Header**: The header contains the logo, navigation links, and a "Sign Up" button, all aligned with consistent spacing.
+- **Responsive Design**: The layout adjusts to different screen sizes, ensuring a good user experience on both desktop and mobile devices.
+- **Hero Section**: The main landing section includes a video or image background with a semi-transparent dark blue overlay and a centered heading and button.
+- **Custom Button Styling**: Buttons are designed to stand out with a hover effect.
+- **Menu Toggle for Mobile**: On mobile devices, the menu is hidden by default and can be toggled by a hamburger icon.
+
+## Project Structure
+
+```bash
+├── index.html          # Main HTML file
+├── style.css           # Main CSS file for styling
+└── README.md           # This readme file
